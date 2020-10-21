@@ -5,3 +5,4 @@
 # software: PyCharm
 print('hcj你好帅哦！')
 print('njnjnjnjj')
+print("艰苦艰苦艰苦看见就")
