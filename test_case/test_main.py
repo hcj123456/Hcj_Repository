@@ -8,5 +8,6 @@ class Test_HCJ:
         print('hcj你好帅哦！')
     def test_002(self):
         print('njnjnjnjj')
-    def test_0003(self):
+    def test_0003():
+
         print("艰苦艰苦艰苦看见就")
