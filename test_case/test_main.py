@@ -9,7 +9,7 @@ import pytest
 
 class Test_HCJ:
     @allure.step(title='第一次测试')
-    def test_001(self):
+    def test_001():
         allure.attach("输出好帅","11111")
         print('hcj你好帅哦！')
     @allure.step(title='第二次测试')
